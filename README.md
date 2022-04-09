@@ -1,3 +1,2 @@
-# MyPets-App
-:cat: Android Pets App
-
+---- 1 import database ở trong server-file/demos-pet/pets_db.sql
+---- file kết nối ở trong  server-file/demos-pet
