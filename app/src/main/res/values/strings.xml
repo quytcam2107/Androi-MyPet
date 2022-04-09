@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quản Lý Thú Cưng</string>
+    <string name="gender_unknown">Không</string>
+    <string name="gender_male">Đực</string>
+    <string name="gender_female">Cái</string>
+    
+</resources>
